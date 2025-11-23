@@ -9,10 +9,9 @@ The goal was to build a realistic, secure, and user-friendly platform simulating
 ---
 
 ## Authors
-- **Anargyrou Lamprou Aikaterini** – P22009  
-- **Stoikos Ioannis Panagiotis** – P22164  
-- **Kotsantis Makris Vasileios** – P19082  
-- **Dizou Christina** – P22039  
+- **Anargyrou Lamprou Aikaterini** 
+- **Stoikos Ioannis Panagiotis** 
+
 
  *Course:* Programming for the Web and the Internet  
  *Semester:* 2024–2025  
